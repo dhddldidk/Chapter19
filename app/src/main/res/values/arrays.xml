@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities">
+        <item>BroadcastReceiver</item>
+    </string-array>
+    <string-array name="titles">
+        <item>브로드캐스트리시버</item>
+    </string-array>
+</resources>

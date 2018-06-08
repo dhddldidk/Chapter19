@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>위치제공자</item>
+        <item>마지막 위치</item>
+        <item>인텐트를 통한 지도보기(대구 아이티교육원)</item>
+        <item>GoogleMap을 이용한 지도보기</item>
+    </string-array>
+
+    <string-array name="classes">
+        <item>ReadLocationActivity</item>
+        <item>LastKnownLocationActivity</item>
+        <item>IntentMapActivity</item>
+        <item>MapsActivity</item>
+    </string-array>
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':Lab19_2Activity', ':part7-20', ':mapservice_application'
